@@ -1,0 +1,8 @@
+pid arrival_time burst_time
+0 0 10
+1 4 2
+2 4 8
+3 9 1
+4 12 4
+5 15 3
+6 16 6
